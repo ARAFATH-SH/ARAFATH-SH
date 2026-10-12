@@ -38,113 +38,41 @@ An interactive platform for learning algorithms through:
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
+🛠️ Tech Stack
+💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,ts,js,c,php,bash" />
+  <img src="https://skillicons.dev/icons?i=go,ts,js,c,cpp,cs,py,php,bash" />
 </p>
 
-- **Go** — Backend development & REST APIs
-- **TypeScript / JavaScript** — Full-stack web development
-- **C/C++** — Programming fundamentals & problem solving
-- **PHP** — CRUD applications & web development
-- **Bash** — Linux & shell scripting
-
----
-
-### 🎨 Frontend Development
-
+🎨 Frontend Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 </p>
 
-- React
-- Next.js
-- TypeScript
-- Tailwind CSS
-- HTML5
-- CSS3
-- Responsive Web Design
-
----
-
-### ⚙️ Backend Development
-
+⚙️ Backend Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=go,nodejs" />
 </p>
 
-- Go
-- REST API Development
-- HTTP
-- Middleware
-- Authentication & Authorization
-- JWT
-- CRUD APIs
-- Backend Architecture
-- Domain-Driven Design fundamentals
-
----
-
-### 🗄️ Databases
-
+🗄️ Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
-- PostgreSQL
-- MySQL
-- SQL
-
----
-
-### 🔌 APIs & Backend Tools
-
+🔌 APIs & Backend Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postman,docker" />
 </p>
 
-- REST APIs
-- JSON
-- HTTP Methods
-- Postman
-- SQLx
-- JWT
-- Environment Configuration
-- API Routing
-
----
-
-### 🧰 Development Tools
-
+🧰 Development Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,githubactions" />
 </p>
 
-- Git
-- GitHub
-- VS Code
-- Linux / Ubuntu
-- Docker
-- GitHub Actions
-- CLI / Terminal
-
----
-
-### 🏗️ Software Engineering
-
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Clean Code
-- RESTful Architecture
-- Domain-Driven Design
-- Database Design
-- Debugging
-- System Design fundamentals
-- Software Architecture
-- Problem Solving
+🏗️ Software Engineering
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,go,postgres,react,nextjs" />
+</p>
 
 ---
 
