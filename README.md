@@ -19,7 +19,6 @@ I enjoy turning ideas into working software, debugging difficult problems, and c
 - 🐧 Linux user
 - 🎯 Goal: Become a strong **Backend / Software Engineer**
 
----
 
 ## 🚀 What I'm Working On
 
@@ -36,7 +35,6 @@ An interactive platform for learning algorithms through:
 
 **Tech:** Next.js · React · TypeScript · Tailwind CSS
 
----
 
 🛠️ Tech Stack
 💻 Programming Languages
@@ -60,10 +58,11 @@ An interactive platform for learning algorithms through:
 </p>
 
 🔌 APIs & Backend Tools
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postman,docker" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
-
 🧰 Development Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,githubactions" />
@@ -74,20 +73,6 @@ An interactive platform for learning algorithms through:
   <img src="https://skillicons.dev/icons?i=git,github,go,postgres,react,nextjs" />
 </p>
 
----
-
-## 📄 Resume
-
-<p align="center">
-  <a href="YOUR_RESUME_LINK">
-    <img src="https://img.shields.io/badge/View%20My%20Resume-181717?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View Resume"/>
-  </a>
-</p>
-
-<p align="center">
-  <b>Interested in my experience, projects and technical background?</b><br>
-  Check out my resume.
-</p>
 
 # 📊 GitHub Analytics
 
@@ -95,8 +80,6 @@ An interactive platform for learning algorithms through:
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=ARAFATH-SH&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARAFATH-SH&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
-
----
 
 # 🔥 Contribution Streak
 
@@ -106,23 +89,17 @@ An interactive platform for learning algorithms through:
 
 The streak card shows **total contributions, current streak, and longest streak** based on GitHub contribution activity.
 
----
-
 # 💻 GitHub Profile Summary
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ARAFATH-SH&theme=tokyonight" alt="GitHub Profile Details"/>
 </p>
 
----
-
 # 📦 Repository Overview
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ARAFATH-SH&show_icons=true&hide_title=true&hide_rank=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Repository Statistics"/>
 </p>
-
----
 
 # 🐍 Contribution Snake
 
@@ -156,6 +133,21 @@ The streak card shows **total contributions, current streak, and longest streak*
 </a>
 
 </p>
+
+## 📄 Resume
+
+<p align="center">
+  <a href="YOUR_RESUME_LINK">
+    <img src="https://img.shields.io/badge/View%20My%20Resume-181717?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View Resume"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Interested in my experience, projects and technical background?</b><br>
+  Check out my resume.
+</p>
+
+
 
 ---
 
