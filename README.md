@@ -180,14 +180,6 @@ The streak card shows **total contributions, current streak, and longest streak*
 
 ---
 
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ARAFATH-SH&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
-</p>
-
----
-
 # 💻 GitHub Profile Summary
 
 <p align="center">
@@ -204,106 +196,24 @@ The streak card shows **total contributions, current streak, and longest streak*
 
 ---
 
-# ⭐ Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌌 AlgoVerse
-
-Interactive algorithm learning and visualization platform.
-
-**Tech:**  
-Next.js · React · TypeScript · Tailwind CSS
-
-<a href="https://github.com/ARAFATH-SH/AlgoVerse">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARAFATH-SH&repo=AlgoVerse&theme=tokyonight&hide_border=true" />
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🔗 URL Shortener
-
-RESTful URL shortening backend built with Go and PostgreSQL.
-
-**Tech:**  
-Go · PostgreSQL · SQLx · REST API · DDD
-
-<a href="https://github.com/ARAFATH-SH/url-shortener">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARAFATH-SH&repo=url-shortener&theme=tokyonight&hide_border=true" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🛒 E-Commerce Backend
-
-Backend API for an e-commerce platform with authentication, users and products.
-
-**Tech:**  
-Go · PostgreSQL · JWT · REST API · SQLx
-
-<a href="https://github.com/ARAFATH-SH/ecommerce">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARAFATH-SH&repo=ecommerce&theme=tokyonight&hide_border=true" />
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🖥️ OS / Shell Project
-
-A CLI-based operating-system related project developed to strengthen Linux and shell scripting fundamentals.
-
-**Tech:**  
-Shell Script · Linux · CLI
-
-</td>
-</tr>
-</table>
-
----
-
-# 🎯 2026 Goals
-
-- [ ] Build more production-quality Go projects
-- [ ] Deep dive into System Design
-- [ ] Learn distributed systems fundamentals
-- [ ] Improve database design and optimization
-- [ ] Continue solving algorithmic problems
-- [ ] Complete and improve AlgoVerse
-- [ ] Deploy more projects to the cloud
-- [ ] Contribute to open-source projects
-
----
-
-# 🏆 GitHub Achievements
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ARAFATH-SH&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ARAFATH-SH/ARAFATH-SH/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ARAFATH-SH/ARAFATH-SH/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/ARAFATH-SH/ARAFATH-SH/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
-
----
-
-# 📊 My Development Focus
-
-| Area | Focus |
-|---|---|
-| 🧠 Algorithms | Data Structures & Problem Solving |
-| ⚙️ Backend | Go & REST APIs |
-| 🗄️ Database | PostgreSQL & SQL |
-| 🏗️ Architecture | DDD & System Design |
-| 🌐 Frontend | React & Next.js |
-| 🚀 Deployment | Cloud & Production Systems |
-| 🐧 Environment | Linux |
-
----
 
 # 🤝 Connect With Me
 
