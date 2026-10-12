@@ -2,20 +2,12 @@
 
 ### Software Developer | Backend & Full-Stack Developer
 
-I’m a software developer who enjoys **building real-world projects, solving problems, and learning by building**.
+I build software to understand how things work — from **algorithms and databases to APIs and backend architecture**.
 
-My current focus is **Go backend development, system design, algorithms, and modern full-stack development with React and Next.js.**
+I'm currently focused on **Go backend development, system design, algorithms, PostgreSQL, React and Next.js**.
 
-<p align="center">
-  <a href="https://github.com/ARAFATH-SH">
-    <img src="https://komarev.com/ghpvc/?username=ARAFATH-SH&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-  </a>
-  <a href="https://github.com/ARAFATH-SH?tab=followers">
-    <img src="https://img.shields.io/github/followers/ARAFATH-SH?label=Followers&style=flat" alt="GitHub followers"/>
-  </a>
-</p>
+I enjoy turning ideas into working software, debugging difficult problems, and continuously improving the way I design and build applications.
 
----
 
 ## 👨‍💻 About Me
 
@@ -48,33 +40,126 @@ An interactive platform for learning algorithms through:
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=go,ts,js,c,php" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,ts,js,c,php,bash" />
 </p>
 
-### Frontend
+- **Go** — Backend development & REST APIs
+- **TypeScript / JavaScript** — Full-stack web development
+- **C/C++** — Programming fundamentals & problem solving
+- **PHP** — CRUD applications & web development
+- **Bash** — Linux & shell scripting
 
-<p>
+---
+
+### 🎨 Frontend Development
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 </p>
 
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=go,postgres" />
-</p>
-
-**Also working with:** REST APIs · SQL · JWT · SQLx · Backend Architecture
-
-### Tools & Environment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" />
-</p>
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- HTML5
+- CSS3
+- Responsive Web Design
 
 ---
+
+### ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,nodejs" />
+</p>
+
+- Go
+- REST API Development
+- HTTP
+- Middleware
+- Authentication & Authorization
+- JWT
+- CRUD APIs
+- Backend Architecture
+- Domain-Driven Design fundamentals
+
+---
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+- PostgreSQL
+- MySQL
+- SQL
+
+---
+
+### 🔌 APIs & Backend Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postman,docker" />
+</p>
+
+- REST APIs
+- JSON
+- HTTP Methods
+- Postman
+- SQLx
+- JWT
+- Environment Configuration
+- API Routing
+
+---
+
+### 🧰 Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+</p>
+
+- Git
+- GitHub
+- VS Code
+- Linux / Ubuntu
+- Docker
+- GitHub Actions
+- CLI / Terminal
+
+---
+
+### 🏗️ Software Engineering
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Clean Code
+- RESTful Architecture
+- Domain-Driven Design
+- Database Design
+- Debugging
+- System Design fundamentals
+- Software Architecture
+- Problem Solving
+
+---
+
+## 📄 Resume
+
+<p align="center">
+  <a href="YOUR_RESUME_LINK">
+    <img src="https://img.shields.io/badge/View%20My%20Resume-181717?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View Resume"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Interested in my experience, projects and technical background?</b><br>
+  Check out my resume.
+</p>
 
 # 📊 GitHub Analytics
 
@@ -182,46 +267,6 @@ Shell Script · Linux · CLI
 </td>
 </tr>
 </table>
-
----
-
-# 🧠 Problem Solving
-
-<p align="center">
-
-<a href="https://github.com/ARAFATH-SH">
-<img src="https://img.shields.io/badge/1000%2B-Problems%20Solved-181717?style=for-the-badge&logo=github" />
-</a>
-
-</p>
-
-I enjoy solving algorithmic problems because they help me improve:
-
-- Data Structures & Algorithms
-- Problem-solving ability
-- Logical thinking
-- Time & space complexity analysis
-- Programming fundamentals
-
----
-
-# 📚 Current Learning Roadmap
-
-```text
-Data Structures & Algorithms
-            ↓
-      Go Development
-            ↓
-     Backend Engineering
-            ↓
-     Database Design
-            ↓
-       System Design
-            ↓
-  Distributed Systems
-            ↓
-Scalable Backend Architecture
-```
 
 ---
 
