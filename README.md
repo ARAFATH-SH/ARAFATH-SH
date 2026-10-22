@@ -134,21 +134,6 @@ The streak card shows **total contributions, current streak, and longest streak*
 
 </p>
 
-## 📄 Resume
-
-<p align="center">
-  <a href="YOUR_RESUME_LINK">
-    <img src="https://img.shields.io/badge/View%20My%20Resume-181717?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View Resume"/>
-  </a>
-</p>
-
-<p align="center">
-  <b>Interested in my experience, projects and technical background?</b><br>
-  Check out my resume.
-</p>
-
-
-
 ---
 
 <p align="center">
