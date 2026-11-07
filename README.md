@@ -8,18 +8,6 @@ I'm currently focused on **Go backend development, system design, algorithms, Po
 
 I enjoy turning ideas into working software, debugging difficult problems, and continuously improving the way I design and build applications.
 
-
-## 👨‍💻 About Me
-
-- 🔭 Currently building **AlgoVerse**, an interactive algorithm learning and visualization platform
-- 🌱 Currently learning **Go, System Design, Backend Architecture & Distributed Systems**
-- 💻 Interested in **Backend Development, Full-Stack Development & Computer Science**
-- 🧠 Solved **1000+ programming problems**
-- 🏗️ I learn best by **building projects and understanding how systems work**
-- 🐧 Linux user
-- 🎯 Goal: Become a strong **Backend / Software Engineer**
-
-
 ## 🚀 What I'm Working On
 
 ### 🌌 AlgoVerse
